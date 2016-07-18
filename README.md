@@ -6,11 +6,13 @@
 
 http://mingchao.16mb.com/
 
+#開放職缺
+- UI設計師 (https://github.com/mingsystems/works/blob/master/UI-Designer.md)
+- 前端工程師 (https://github.com/mingsystems/works/blob/master/Frontend.md)
+- 後端工程師 (https://github.com/mingsystems/works/blob/master/Backend.md)
+
 #工作時間
 - 週一至週五彈性上下班
-- 國定假日休
-- 颱風假休
-
 
 #福利
 - 優於勞基法休假制度，入職滿三個月享十天年假比例
